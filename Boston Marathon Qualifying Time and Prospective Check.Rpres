@@ -6,14 +6,14 @@ autosize: true
 
 Application Feature
 ========================================================
-This Application allows user to check the qualifying time and pace for Boston Marathon for his/her age group.
+This application allows user to check the qualifying time and pace for Boston Marathon for his/her age group.
 
 
-At the same time, the graphic plot shows the qualifying times for all the age groups for him or her. This will allow user to see his possibility of BQ for the years to come if he can't reach the BQ goal at his current age.
+At the same time, the graphic plot shows the qualifying times for all the age groups for him or her. This will allow user to see his/her possibility of BQ for the years to come if he/she can't reach the BQ goal at his/her current age.
 
 
 
-Data Exploration and Interpretation
+Data presentation and Interpretation
 ========================================================
 The one-row table shows the qualifying time and pace for the specific sex and age group that user belongs to.
 
