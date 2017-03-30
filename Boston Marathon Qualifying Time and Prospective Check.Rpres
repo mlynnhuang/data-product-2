@@ -17,7 +17,7 @@ Data Exploration and Interpretation
 ========================================================
 The one-row table shows the qualifying time and pace for the specific sex and age group that user belongs to.
 
-Time,in HH:MI, total running time for a marathon race                            
+Time, in HH:MI, total running time for a marathon race                            
 
 Pace, in MM:SS/Mile, average pace for a marathon
 
@@ -37,5 +37,5 @@ filter(bq, Sex=='Male',AgeGroup=='45-49')
 The Web App and Codes
 ========================================================
 The Web App is running on https://mlynnhuang.shinyapps.io/data-product/
-The code for ui.R and server.R can be found in
+The code for ui.R and server.R can be found in https://github.com/mlynnhuang/data-product-2/
 
