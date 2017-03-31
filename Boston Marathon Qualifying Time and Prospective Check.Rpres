@@ -37,5 +37,5 @@ filter(bq, Sex=='Male',AgeGroup=='45-49')
 The Web App and Codes
 ========================================================
 The Web App is running on https://mlynnhuang.shinyapps.io/data-product/
-The code for ui.R and server.R can be found in https://github.com/mlynnhuang/data-product-2/
+The code for ui.R and server.R can be found in http://github.com/mlynnhuang/data-product-2/
 
